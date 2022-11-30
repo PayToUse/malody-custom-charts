@@ -8,7 +8,7 @@ Malody is a music(or rhythm) game community, consists of a cross-platform game c
 
 # Instructions
 
-Download the charts you want, extract it, and move it to "/data/malody/Beatmap/". This one is for supported devices for malody.
+Download the charts you want, extract it, and move it to "/data/malody/Beatmap/". This one is for mobile and tablet devices for malody for it to work
 
 # Suggestions
 
