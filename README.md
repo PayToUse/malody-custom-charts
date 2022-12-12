@@ -6,7 +6,8 @@ this repository contains custom charts which is made in Malody
 
 Malody is a rhythm game with a bunch of gamemodes, online player ranking, and many more. 
 
-Malody is composed with a lot of gamemodes 
+Malody is composed with a lot of gamemodes
+
 They can be seen here:
 ```
 Catch, Mania, Ring, Pad, Slide, and Taiko
