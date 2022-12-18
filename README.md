@@ -22,7 +22,7 @@ Malody also provides you to customize skins for a bunch of gamemodes, and change
 Malody has a bunch of cool and different features which are pretty similar to osu!:
 
 - A bunch of gamemodes
-- Working storyboards from osu!
+- Working beatmap videos from osu! (**which may cause lag**) 
 - Customizable skins
 - Online player ranking
 - Online market
